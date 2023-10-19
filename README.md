@@ -9,6 +9,8 @@
 ## Meus perfis:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/anderson-medeiros-6a6143b6/)
 
+[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/andersonm1995)
+
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
@@ -27,6 +29,6 @@
 
 ## Mais usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpaulino&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpaulino&layout=compact&theme=chartreuse-dark)
 </div>
 
