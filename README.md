@@ -29,6 +29,6 @@
 
 ## Mais usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpaulino&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonpaulino&layout=compact&theme=holi)
 </div>
 
